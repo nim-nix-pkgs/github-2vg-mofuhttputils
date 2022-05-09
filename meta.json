@@ -6,7 +6,7 @@
   "tags": [],
   "url": "https://github.com/2vg/mofuhttputils",
   "refs": [
-    "fatal: unable to access 'https://github.com/2vg/mofuhttputils/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/2vg/mofuhttputils/': SSL connection timeout",
     ""
   ],
   "heads": []
